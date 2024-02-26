@@ -1,0 +1,1 @@
+# shop-receipt-for-customers.
